@@ -3,7 +3,7 @@
 **Página: <https://proportional.github.io/grafo-pr-protonterapia/>**
 
 Grafo de citas de la bibliografía sobre protección radiológica en instalaciones de protonterapia:
-1549 obras (1910–2026) y 11126 dependencias, clasificadas en 14 aspectos, con una
+1574 obras (1910–2026) y 11257 dependencias, clasificadas en 14 aspectos, con una
 síntesis redactada por aspectos. Página autocontenida (sin dependencias externas): también se puede
 descargar `index.html` y abrirla sin conexión.
 
