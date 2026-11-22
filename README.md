@@ -18,4 +18,4 @@ obras.
 Este repositorio solo contiene la página publicada; se genera con `scripts/11_publica_web.py` desde el
 repositorio de trabajo. No editar aquí: los cambios se pisan en la siguiente publicación.
 
-Datos del 2026-11-21.
+Datos del 2026-11-22.
